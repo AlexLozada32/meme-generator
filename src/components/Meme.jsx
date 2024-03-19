@@ -1,5 +1,5 @@
 import React from "react";
-import memesData from "../memesData";
+import memesData from "../memesData.jsx";
 
 export default function Meme() {
   const getMemeImage = (e) => {
